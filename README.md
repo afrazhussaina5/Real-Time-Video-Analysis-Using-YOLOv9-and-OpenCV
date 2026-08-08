@@ -130,9 +130,9 @@ The complete implementation is available in:
 
 ## 👨‍💻 Author
 
-**Karthik Vaddani**
+**Afraz Hussain**
 
-B.Tech – Information Technology
+B.Tech – Data Science
 
 ## ⭐ Acknowledgement
 
